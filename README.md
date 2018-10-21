@@ -8,6 +8,7 @@ This project should be used for authorized testing or educational purposes only.
   Mozilla History  
   Google Chrome History  
   Screenshot  
-  Keylogger  
+  Keylogger 
+  Network Scanner
   Logged Accounts  
   Ranware  
