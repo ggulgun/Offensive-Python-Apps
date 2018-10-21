@@ -9,6 +9,6 @@ This project should be used for authorized testing or educational purposes only.
   Google Chrome History  
   Screenshot  
   Keylogger   
-  Network Scanner
+  Network Scanner  
   Logged Accounts  
   Ranware  
